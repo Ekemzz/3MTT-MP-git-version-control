@@ -28,11 +28,12 @@ Github Dasboard screenshots
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/ea226248-2c28-40f8-bd4b-abc2d93621ec" />
 <img width="943" alt="image" src="https://github.com/user-attachments/assets/d73dd946-67ec-43d4-a257-e3100fd4817d" />
 
-Github REPO URL
-https://github.com/Ekemzz/3MTT-MP-git-version-control
+Github REPO URL for index.html
+
 https://github.com/Ekemzz/3MTT-MP-git-version-control/blob/main/index.html
-
-
+https://github.com/Ekemzz/3MTT-MP-git-version-control/blob/main/index.html
+https://github.com/Ekemzz/3MTT-MP-git-version-control
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/ef4af57c-e77f-4139-8f24-52725f000cf2" />
 
 
 
